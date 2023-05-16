@@ -1,2 +1,0 @@
-# gitpod1
-Prueba
